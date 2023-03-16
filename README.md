@@ -67,14 +67,21 @@ Por último, como ya hemos visto anteriormente, para filtrar datos se usa la cl�
 Y aunque este punto se titula "Resumen", tiene de resumen lo que las consultas básicas tienen de básico... POQUITO.
 
 ## Reflexiones personales
-Aunque por el resumen anterior puede parecer que los temas  tratados este trimestre son muy complicados, personalmente tengo que decir que, creo que este trimestre GBD está siendo mi asignatura favorita...
+Aunque por el resumen anterior puede parecer que los temas tratados este trimestre son muy complicados, personalmente tengo que decir que, creo que este trimestre GBD está siendo mi asignatura favorita...
 
-describir lo que personalmente ha aportado el tema
-Señalar lo mas positivo y negativo de lo que se ha visto
+Siempre me ha parecido un tema muy interesante el de las consultas, aunque no lo había visto desde este lado. Cuando navego por páginas me gusta cotillear __los filtros de búsqueda__ que tienen, y ahora cuando estoy haciendo consultas a veces me imagino cómo será la consulta que está ejecutando una página para mostrarme los "vestidos de color negro", _¿será un WHERE TIPO_PRENDA='Vestido' AND COLOR='negro'?_
+
+La asignatura, en general me encanta, siento que me __estimula intelectualmente__, y me hace pelearme con Oracle y volver a empezar, pero cuando los ejercicios me salen, y me doy cuenta de que mi cabeza ya sabe cómo comunicarse con él, me genera una __satisfacción__ y una sensación muy agradable.
+
+Resumiría esta asignatura como __un reto__, puede ser algo bueno o malo, depende de cómo la quiera afrontar cada uno.
 
 ## Ejercicios significativos
-De las prácticas, indicar qué practica es
+Para ampliar la información del resumen (_que yo creo que me he quedado corta_), se mostrarán algunos ejercicios para ver de forma práctica de los temas comentados.
+
+Todos ellos forman parte de las prácticas hechas en clase, y corregidas. 
+
 ### JOIN, ON y/o USING
+
 
 ### CROSS JOIN
 
