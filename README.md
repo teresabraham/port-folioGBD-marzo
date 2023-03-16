@@ -7,11 +7,11 @@ Durante estos meses hemos tratado dos temas muy importantes: las consultas bási
 
 A continuación encontraréis un pequeño índice con los contenidos del documento:
 
-* [Reflexiones personales](#Reflexiones personales)
+* [Reflexiones personales](Reflexiones_personales)
 
-* [Ejercicios significativos](#Ejercicios significativos)
+* [Ejercicios significativos](#Ejercicios_significativos)
 
-* [Ejercicios de invención propia](#Ejercicios de invención propia)
+* [Ejercicios de invención propia](#Ejercicios_de_invención_propia)
 
 * [Conclusiones](#Conclusiones)
 
