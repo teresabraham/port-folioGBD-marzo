@@ -20,9 +20,9 @@ A continuación encontraréis un pequeño índice con los contenidos del documen
 Como he comentado al principio, hemos tratado dos temas muy importantes en las unidades 6 y 7, voy a intentar resumirlo de la mejor manera pero seguro que me quedo corta, así que ampliaré la información en el apartado de ejercicios significativos.
 
 Empecemos por la Unidad 6 - Consultas básicas...¿Se podría resumir con la palabra __SELECT__? O-JA-LÁ.
-Es mucho más que eso, pero podemos empezar por ahí, el SELECT es una instrucción DQL (es decir, de consulta) que se encuentra dentro de las DML (es decir, de manipulación), ya que estamos manipulando DATOS.
+Es mucho más que eso, pero podemos empezar por ahí: el SELECT es una instrucción DQL (es decir, de consulta) que se encuentra dentro de las DML (es decir, de manipulación), ya que estamos manipulando DATOS.
 
-Para hacer estas consultas, a las que llamaremos básicas pero que de básicas tienen poco, se necesitan muchas más opciones que nos permitirán definir más correctamente lo que estamos buscando. 
+Para hacer estas consultas, a las que llamaremos básicas (_pero que de básicas tienen poco_), se necesitan muchas más opciones que nos permitirán definir más correctamente lo que estamos buscando. 
 
 Aquí es donde entrarán las funciones.
 
@@ -35,13 +35,13 @@ Existen muchas funciones, que gracias a unos parámetros nos permitirán hacer c
 6. Funciones de conversión (TO_CHAR, TO_DATE y TO_NUMBER)
 7. Funciones condicionales (CASE, CAST, DECODE...)
 
-Y lo más divertido... Las expresiones regulares como REGEXP_LIKE, REGEXP_COUNT, REGEXP_INSTR y REGEXP_REPLACE
+Y lo más divertido... Las expresiones regulares como REGEXP_LIKE, REGEXP_COUNT, REGEXP_INSTR y REGEXP_REPLACE.
 
-Y justo cuando parece que ya vas pillándolo todo, empiezas a controlar las expresiones regulares, las funciones te facilitan la vida y no al revés... 
+Y justo cuando parece que ya vas pillándolo todo, empiezas a controlar las expresiones regulares, parece que las funciones te facilitan la vida y no al revés... 
 
-Entonces llega la Unidad 7 - Consultas a varias tablas. Esta si que se puede resumir con una palabra, y es __JOIN__. Si con una tabla ya nos costaba, imagínate con dos... O tres... O cuatro... 
+Entonces llega la Unidad 7 - Consultas de varias tablas. Esta si que se puede resumir con una palabra, y es __JOIN__. Si con una tabla ya nos costaba, imagínate con dos... O tres... O cuatro... 
 
-Bueno, pues eso, que ahora podremos ver datos de distintas tablas en una misma consulta, y es algo que te puede facilitar la vida (si lo entiendes, si no... te la va a complicar).
+Bueno, pues eso, que ahora podremos ver datos de distintas tablas en una misma consulta, y es algo que te puede arreglar la vida (si lo entiendes, si no... te la va a complicar).
 Se juntarán datos de distintas tablas gracias a las Foreign Keys, es decir, datos que se relacionan (son iguales) en ambas tablas. 
 
 Existen varias formas para crear esta relación pero se podría resumir en:
@@ -64,7 +64,7 @@ Pero ¿qué pasa?, que el resultado de estas consultas "junta" filas, por lo que
 
 Por último, como ya hemos visto anteriormente, para filtrar datos se usa la cláusula WHERE, pero para las consultas de totales existe una especial, es la de __HAVING__, que permitirá añadir condiciones y/o comparaciones.
 
-Bueno, este punto tiene como título "Resumen", y tiene de resumen lo que las consultas básicas tienen de básico... POQUITO.
+Y aunque este punto se titula "Resumen", tiene de resumen lo que las consultas básicas tienen de básico... POQUITO.
 
 ## Reflexiones personales
 Aunque por el resumen anterior puede parecer que los temas  tratados este trimestre son muy complicados, personalmente tengo que decir que, creo que este trimestre GBD está siendo mi asignatura favorita...
