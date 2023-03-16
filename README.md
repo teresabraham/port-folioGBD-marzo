@@ -1,6 +1,6 @@
 # Bienvenidos a mi paso por ASIR
 
-Me llamo Teresa Abraham, actualmente estoy en el segundo trimestre (_terminando ya_) del Grado Superior en __Administración de Sistemas Informáticos en Red__.
+Me llamo Teresa Abraham, actualmente estoy en el segundo trimestre (_terminando ya_) del primer curso del Grado Superior en __Administración de Sistemas Informáticos en Red__.
 
 
 Durante estos meses hemos tratado dos temas muy importantes: las consultas básicas y las consultas de varias tablas. 
