@@ -1,4 +1,20 @@
-# Portfolio GBD
+# Bienvenidos a mi paso por ASIR
+
+Me llamo Teresa Abraham, actualmente estoy en el segundo trimestre (_terminando ya_) del Grado Superior en __Administración de Sistemas Informáticos en Red__.
+
+
+Durante estos meses hemos tratado dos temas muy importantes: las consultas básicas y las consultas de varias tablas. 
+
+A continuación encontraréis un pequeño índice con los contenidos del documento:
+
+* [Reflexiones personales](Reflexiones personales)
+
+* [Ejercicios significativos](#Ejercicios significativos)
+
+* [Ejercicios de invención propia](Ejercicios de invención propia)
+
+* [Conclusiones](Conclusiones)
+
 
 ## Resumen
 Resumen unidades 6 y 7
