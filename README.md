@@ -24,7 +24,7 @@ describir lo que personalmente ha aportado el tema
 Señalar lo mas positivo y negativo de lo que se ha visto
 
 ## Ejercicios significativos
-
+De las prácticas, indicar qué practica es
 ### JOIN, ON y/o USING
 
 ### CROSS JOIN
