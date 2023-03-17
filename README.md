@@ -134,6 +134,12 @@ Por último, y la parte importante, se pide que tengan 2 hijas. Para eso se tend
 
 ## Ejercicios de invención propia
 Dos ejercicios propios: enunciado y solución
+Se ha escogido el esquema de clases para crear dos ejercicios, ya que considero que tiene bastantes datos interesantes para hacer consultas.
+
+Se tratará de ejercicios bastante estadísticos, que podrían servir para hacer estudios de mercado o del propio centro escolar:
+
+1. Consultar la media de edad de los alumnos en cada curso y por cada profesor:
+2. Analizar qué cursos tienen más salida, es decir, los alumnos con cursos que tienden a realizar más prácticas en empresas.
 
 ## Conclusiones
 Principales dificultades
