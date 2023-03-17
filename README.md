@@ -80,16 +80,26 @@ Para ampliar la información del resumen (_que yo creo que me he quedado corta_)
 
 Todos ellos forman parte de las prácticas hechas en clase, y corregidas. 
 
-### JOIN, ON y/o USING
+### JOIN USING
+
+![Ejercicio JOIN](Ejercicios/JOIN%20EJ9%20P18.png)
 
 
 ### CROSS JOIN
 
+![Ejercicio_CROSSJOIN](Ejercicios/CROSS%20EJ11%20P18.png)
+
 ### LEFT OUTER JOIN
+
+![Ejercicio_LEFTOUTER](Ejercicios/LEFT%20OUT%20EJ3%20PR19.png)
 
 ### SUM, AVG, COUNT, MAX o MIN
 
+![Ejercicio_CONSTOT](Ejercicios/COUNT%20EJ7%20PR19.png)
+
 ### HAVING
+
+![Ejercicio_HAVING](Ejercicios/HAVING%20EJ5%20PR19.png)
 
 ## Ejercicios de invención propia
 Dos ejercicios propios: enunciado y solución
