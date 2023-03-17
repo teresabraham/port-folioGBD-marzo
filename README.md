@@ -78,7 +78,7 @@ Resumiría esta asignatura como __un reto__, puede ser algo bueno o malo, depend
 ## Ejercicios significativos
 Para ampliar la información del resumen (_que yo creo que me he quedado corta_), se mostrarán algunos ejercicios para ver de forma práctica de los temas comentados.
 
-Todos ellos forman parte de las prácticas hechas en clase, y corregidas. 
+Todos ellos forman parte de las prácticas hechas en clase, y corregidas. He decidido exponer ejemplos de dos esquemas únicamente (Geografía y PadreMadre), me parece que se puede entender mejor que si uso ejercicios de esquemas que ni se parecen. 
 
 ### JOIN USING
 El JOIN USING se utiliza para unir datos de dos tablas que se relacionan con una columna que tiene el mismo nombre en ambas tablas.
@@ -128,7 +128,7 @@ Aunque ya se ha visto en la anterior consulta, en esta nos centraremos en el HAV
 
 En este caso se tendrá que consultar primero el nombre de las personas que son madre, y se comparará con la misma tabla en la que aparecerán los hijos (que también se filtrará a través de la columna sexo, para que únicamente aparezcan hijas). Se agrupará por el nombre de la madre y se contarán las filas resultantes de esta columna (es decir, número de hijas).
 
-Por último, y la parte importante, se pide que tengan 2 hijas
+Por último, y la parte importante, se pide que tengan 2 hijas. Para eso se tendrá que condicionar el resultado del COUNT y es donde entra en juego la cláusula HAVING, que es como el WHERE pero para consultas totales, y se señalará que este COUNT tiene que ser IGUAL a 2.
 
 ![Ejercicio_HAVING](Ejercicios/HAVING%20EJ5%20PR19.png)
 
@@ -137,4 +137,7 @@ Dos ejercicios propios: enunciado y solución
 
 ## Conclusiones
 Principales dificultades
+Durante el curso me han surgido algunas dificultades, pero en el buen sentido, porque me han motivado a seguir esforzándome. Creo que la máxima dificultad fue el exámen de Consultas de una tabla, porque yo creía que lo llevaba bastante bien, no tenía problemas en las prácticas pero en el exámen me bloquee, y me frustró bastante, sentí que se me hacía muy difícil.
+
+
 Qué es lo que mas me ha gustado, y lo que menos
