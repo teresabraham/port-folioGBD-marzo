@@ -2,19 +2,19 @@
 
 Me llamo Teresa Abraham, actualmente estoy en el segundo trimestre (_terminando ya_) del primer curso del Grado Superior en __Administración de Sistemas Informáticos en Red__.
 
-
 Durante estos meses hemos tratado dos temas muy importantes: las consultas básicas y las consultas de varias tablas. 
 
 A continuación encontraréis un pequeño índice con los contenidos del documento:
 
 * [Reflexiones personales](#Reflexiones-personales)
-
 * [Ejercicios significativos](#Ejercicios-significativos)
-
+  * [JOIN USING](#JOIN-USING)
+  * [CROSS JOIN](#CROSS-JOIN)
+  * [LEFT OUTER JOIN](#LEFT-OUTER-JOIN)
+  * [Consulta de totales](#consulta-de-totales)
+  * [HAVING](#HAVING)
 * [Ejercicios de invención propia](#Ejercicios-de-invención-propia)
-
 * [Conclusiones](#Conclusiones)
-
 
 ## Resumen
 Como he comentado al principio, hemos tratado dos temas muy importantes en las unidades 6 y 7, voy a intentar resumirlo de la mejor manera pero seguro que me quedo corta, así que ampliaré la información en el apartado de ejercicios significativos.
@@ -114,7 +114,7 @@ Con eso se mostrarán las coincidencias, pero como además se necesita sacar a l
 
 ![Ejercicio_LEFTOUTER](Ejercicios/LEFTOUT_EJ3_PR19.png)
 
-### Consulta de totales (COUNT)
+### Consulta de totales
 En el __ejercicio 7 de la práctica 19 (PadreMadre)__ se pedía una consulta para saber las madres que han tenido hijos con padres distintos.
 
 Para esto entrará en juego el COUNT que usado con (*) contará filas. Para este ejercicio, en primer lugar se ha hecho una consulta de padres y madres y cuántos hijos tienen en común. Sobre esa consulta se ha hecho exactamente lo mismo, pero en vez de contar hijos, se han contado olos padres, por lo que como resultado se obtendrá el nombre de las madres y el número de padres con los que han tenido hijos.
