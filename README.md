@@ -104,7 +104,14 @@ Tras eso, para comparar la longitud del nombre se hará en la cláusula WHERE, u
 ![Ejercicio_CROSSJOIN](Ejercicios/CROSS%20EJ11%20P18.png)
 
 ### LEFT OUTER JOIN
-El LEFT OUTER JOIN
+El LEFT OUTER JOIN se utiliza para, en una consulta de varias tablas, obtener además de los datos coincidentes, los que no tienen coincidentes en la tabla a la IZQUIERDA del JOIN.
+
+En el __ejercicio 3 de la práctica 19 (PadreMadre)__ se pedía mostrar el nombre de los hijos, su padre y su madre, y además que se muestren las personas que no tienen un padre o madre en la base de datos. Se trata de una base de datos con una relación recursiva, ya que una persona puede ser hijo/a y padre/madre a la vez.
+Para eso, en primer lugar se mostrarán a todas las personas (serán los hijos) de la base de datos, y a través de ellos se unirá con la propia tabla para mostrar al padre y a la madre (se hará con un JOIN ON, ya que el nombre de la columna que les une es distinto).
+
+Con eso se mostrarán las coincidencias, pero como además se necesita sacar a los hijos que no tienen padre y/o madre, es cuando entrará en jeugo el LEFT OUTER que se añadirá antes de ambos JOIN, ya que se requiere que aplique a la tabla de la izquierda del JOIN (es decir, la de los hijos).
+
+
 ![Ejercicio_LEFTOUTER](Ejercicios/LEFT%20OUT%20EJ3%20PR19.png)
 
 ### SUM, AVG, COUNT, MAX o MIN
