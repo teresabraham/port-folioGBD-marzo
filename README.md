@@ -114,11 +114,21 @@ Con eso se mostrarán las coincidencias, pero como además se necesita sacar a l
 
 ![Ejercicio_LEFTOUTER](Ejercicios/LEFT%20OUT%20EJ3%20PR19.png)
 
-### SUM, AVG, COUNT, MAX o MIN
+### Consulta de totales (COUNT)
+En el __ejercicio 7 de la práctica 19 (PadreMadre)__ se pedía una consulta para saber las madres que han tenido hijos con padres distintos.
+
+Para esto entrará en juego el COUNT que usado con (*) contará filas. Para este ejercicio, en primer lugar se ha hecho una consulta de padres y madres y cuántos hijos tienen en común. Sobre esa consulta se ha hecho exactamente lo mismo, pero en vez de contar hijos, se han contado olos padres, por lo que como resultado se obtendrá el nombre de las madres y el número de padres con los que han tenido hijos.
+
+En este caso, además, se ha añadido como condición que sea superior a uno (es decir, más de un padre).
 
 ![Ejercicio_CONSTOT](Ejercicios/COUNT%20EJ7%20PR19.png)
 
 ### HAVING
+Aunque ya se ha visto en la anterior consulta, en esta nos centraremos en el HAVING para encontrar el nombre de las madres que hayan tenido 2 hijas, se trata del __ejercicio 5 de la práctica 19 (PadreMadre)__.
+
+En este caso se tendrá que consultar primero el nombre de las personas que son madre, y se comparará con la misma tabla en la que aparecerán los hijos (que también se filtrará a través de la columna sexo, para que únicamente aparezcan hijas). Se agrupará por el nombre de la madre y se contarán las filas resultantes de esta columna (es decir, número de hijas).
+
+Por último, y la parte importante, se pide que tengan 2 hijas
 
 ![Ejercicio_HAVING](Ejercicios/HAVING%20EJ5%20PR19.png)
 
