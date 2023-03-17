@@ -2,7 +2,7 @@
 
 Me llamo Teresa Abraham, actualmente estoy en el segundo trimestre (_terminando ya_) del primer curso del Grado Superior en __Administración de Sistemas Informáticos en Red__.
 
-Durante estos meses hemos tratado dos temas muy importantes: las consultas básicas y las consultas de varias tablas. 
+Durante estos meses hemos tratado dos temas muy importantes: __las consultas básicas y las consultas de varias tablas.__
 
 A continuación encontraréis un pequeño índice con los contenidos del documento:
 
@@ -144,11 +144,14 @@ Se tratará de ejercicios bastante estadísticos, que podrían servir para hacer
 
 ![ResultadoMEDIA](Ejercicios_inventados/EDADRESULT.png)
 
+Es interesante ver que la media de edad más joven es de 32,62 años, para poder analizar qué le interesa más a la gente por su franja de edad. Sería interesante aplicándolo a una escuela que tenga Bachillerato, Grados Medios y Superiores de distintos ámbitos. También podría ser interesante analizarlo por su género, tendencias de estudio según hombres y mujeres.
 
 2. Analizar qué cursos tienen más salida, es decir, los alumnos con cursos que tienden a realizar más prácticas en empresas.
 
 ![InstruccionPRACTICAS](Ejercicios_inventados/PRACT*TITULO.png)
 ![ResultadoPRACTICAS](Ejercicios_inventados/PRACT*TITULORESULT.png)
+
+Se puede observar que los alumnos que más prácticas realizan son los del curso de Mecanografía, y que el curso de Linux II es el que menos estudiantes en práctica tiene.
 
 Tras realizar el ejercicio, me he dado cuenta de que podría ser interesante saber qué empresas contratan más alumnos en prácticas. 
 
