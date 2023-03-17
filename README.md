@@ -89,7 +89,7 @@ Para eso, se mostrará el nombre de las __localidades y provincias__, para poder
 Tras eso, se compararán los identificadores, la localidad no puede coincidir con la capital de la provincia, y por eso se buscarán las localidades que NO sean capitales.
 
 
-![Ejercicio JOIN](Ejercicios/JOIN%20EJ9%20P18.png)
+![Ejercicio JOIN](Ejercicios/JOIN_EJ9_P18.png)
 
 
 ### CROSS JOIN
@@ -101,7 +101,7 @@ Para poder comparar los nombres de las CCAA se tendrá que "duplicar" la tabla, 
 Tras eso, para comparar la longitud del nombre se hará en la cláusula WHERE, usando como condición la función de LENGTH y además, excluyendo que se compare el nombre de la CCAA consigo mismo.
 
 
-![Ejercicio_CROSSJOIN](Ejercicios/CROSS%20EJ11%20P18.png)
+![Ejercicio_CROSSJOIN](Ejercicios/CROSS_EJ11_P18.png)
 
 ### LEFT OUTER JOIN
 El LEFT OUTER JOIN se utiliza para, en una consulta de varias tablas, obtener además de los datos coincidentes, los que no tienen coincidentes en la tabla a la IZQUIERDA del JOIN.
@@ -112,7 +112,7 @@ Para eso, en primer lugar se mostrarán a todas las personas (serán los hijos) 
 Con eso se mostrarán las coincidencias, pero como además se necesita sacar a los hijos que no tienen padre y/o madre, es cuando entrará en jeugo el LEFT OUTER que se añadirá antes de ambos JOIN, ya que se requiere que aplique a la tabla de la izquierda del JOIN (es decir, la de los hijos).
 
 
-![Ejercicio_LEFTOUTER](Ejercicios/LEFT%20OUT%20EJ3%20PR19.png)
+![Ejercicio_LEFTOUTER](Ejercicios/LEFTOUT_EJ3_PR19.png)
 
 ### Consulta de totales (COUNT)
 En el __ejercicio 7 de la práctica 19 (PadreMadre)__ se pedía una consulta para saber las madres que han tenido hijos con padres distintos.
@@ -121,7 +121,7 @@ Para esto entrará en juego el COUNT que usado con (*) contará filas. Para este
 
 En este caso, además, se ha añadido como condición que sea superior a uno (es decir, más de un padre).
 
-![Ejercicio_CONSTOT](Ejercicios/COUNT%20EJ7%20PR19.png)
+![Ejercicio_CONSTOT](Ejercicios/COUNT_EJ7_PR19.png)
 
 ### HAVING
 Aunque ya se ha visto en la anterior consulta, en esta nos centraremos en el HAVING para encontrar el nombre de las madres que hayan tenido 2 hijas, se trata del __ejercicio 5 de la práctica 19 (PadreMadre)__.
@@ -130,7 +130,7 @@ En este caso se tendrá que consultar primero el nombre de las personas que son 
 
 Por último, y la parte importante, se pide que tengan 2 hijas. Para eso se tendrá que condicionar el resultado del COUNT y es donde entra en juego la cláusula HAVING, que es como el WHERE pero para consultas totales, y se señalará que este COUNT tiene que ser IGUAL a 2.
 
-![Ejercicio_HAVING](Ejercicios/HAVING%20EJ5%20PR19.png)
+![Ejercicio_HAVING](Ejercicios/HAVING_EJ5_PR19.png)
 
 ## Ejercicios de invención propia
 Dos ejercicios propios: enunciado y solución
