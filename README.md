@@ -81,16 +81,30 @@ Para ampliar la información del resumen (_que yo creo que me he quedado corta_)
 Todos ellos forman parte de las prácticas hechas en clase, y corregidas. 
 
 ### JOIN USING
+El JOIN USING se utiliza para unir datos de dos tablas que se relacionan con una columna que tiene el mismo nombre en ambas tablas.
+
+En este caso, el enunciado del __ejercicio 9 de la práctica 18 (Geografía)__, se pedía mostrar el nombre de las localidades que NO sean capitales de provincia.
+Para eso, se mostrará el nombre de las __localidades y provincias__, para poder compararlos, y para poder mostrarlos en la misma consulta se unirán los datos de ambas tablas Localidades y Provincias, que se relacionan a través de la columna n_provincia.
+
+Tras eso, se compararán los identificadores, la localidad no puede coincidir con la capital de la provincia, y por eso se buscarán las localidades que NO sean capitales.
+
 
 ![Ejercicio JOIN](Ejercicios/JOIN%20EJ9%20P18.png)
 
 
 ### CROSS JOIN
+El CROSS JOIN se utiliza para comparar datos de distintas filas en una misma tabla, duplicará esta tabla y cruzará los datos de una y otra, permitiendo comparar distintas filas de una misma tabla.
+
+Se trata del __ejercicio 11 de la práctica 18 (Geografía)__ , que pide mostrar las CCAA que tiene el mismo tamaño de letras en el nombre.
+Para poder comparar los nombres de las CCAA se tendrá que "duplicar" la tabla, para asi cruzar todas las filas de ambas tablas, es entonces cuando se usará el CROSS JOIN. Al tratarse de la misma tabla se las denominará C1 y C2, y se extraerá el nombre (de la CCAA) de cada una de ellas.
+
+Tras eso, para comparar la longitud del nombre se hará en la cláusula WHERE, usando como condición la función de LENGTH y además, excluyendo que se compare el nombre de la CCAA consigo mismo.
+
 
 ![Ejercicio_CROSSJOIN](Ejercicios/CROSS%20EJ11%20P18.png)
 
 ### LEFT OUTER JOIN
-
+El LEFT OUTER JOIN
 ![Ejercicio_LEFTOUTER](Ejercicios/LEFT%20OUT%20EJ3%20PR19.png)
 
 ### SUM, AVG, COUNT, MAX o MIN
