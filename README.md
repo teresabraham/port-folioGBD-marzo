@@ -139,11 +139,26 @@ Se ha escogido el esquema de clases para crear dos ejercicios, ya que considero 
 Se tratará de ejercicios bastante estadísticos, que podrían servir para hacer estudios de mercado o del propio centro escolar:
 
 1. Consultar la media de edad de los alumnos en cada curso y por cada profesor:
+
+![InstruccionMEDIA](Ejercicios_inventados/EDADTITULOPROFESOR.png)
+
+![ResultadoMEDIA](Ejercicios_inventados/EDADRESULT.png)
+
+
 2. Analizar qué cursos tienen más salida, es decir, los alumnos con cursos que tienden a realizar más prácticas en empresas.
 
+![InstruccionPRACTICAS](Ejercicios_inventados/PRACT*TITULO.png)
+![ResultadoPRACTICAS](Ejercicios_inventados/PRACT*TITULORESULT.png)
+
+Tras realizar el ejercicio, me he dado cuenta de que podría ser interesante saber qué empresas contratan más alumnos en prácticas. 
+
+![InstruccionPRACTICAS2](Ejercicios_inventados/PRACT*EMPR.png)
+![ResultadoPRACTICAS2](Ejercicios_inventados/PRACT*EMPRRESULT.png)
+
+
 ## Conclusiones
-Principales dificultades
-Durante el curso me han surgido algunas dificultades, pero en el buen sentido, porque me han motivado a seguir esforzándome. Creo que la máxima dificultad fue el exámen de Consultas de una tabla, porque yo creía que lo llevaba bastante bien, no tenía problemas en las prácticas pero en el exámen me bloquee, y me frustró bastante, sentí que se me hacía muy difícil.
+Durante el curso me han surgido algunas dificultades, pero en el buen sentido, porque me han motivado a seguir esforzándome. Creo que la máxima dificultad fue el exámen de Consultas de una tabla, porque yo creía que lo llevaba bastante bien, no tenía problemas en las prácticas pero en el exámen me bloquee, y me frustró bastante, sentí que se me hacía muy difícil y aunque la nota no ha sido "mala" la considero baja para mi recorrido y esfuerzo.
 
+Me ha sorprendido mucho este trimestre, sobre todo el hecho de ver que entendiendo todo lo que se me va planteando. Como siempre digo, haber llegado como un "folio en blanco" para mi es considerado una ventaja, veo gente que tiene tantos conocimientos que se le mezclan, pero como yo no tengo nada más puedo concentrarme en absorber toda la información sin confundirme.
 
-Qué es lo que mas me ha gustado, y lo que menos
+Lo que más me ha costado ha sido el tema de las funciones, había tantas que no podía quedarme con todas ellas, sobre todo las numéricas, se me mezclaban algunos conceptos y ya no sabía si redondeaba o si quitaba decimales... PEro creo que eso en el mundo laboral, sabiendo que existen, podré consultarlas en internet (o en una chuleta). 
